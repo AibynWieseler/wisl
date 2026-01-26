@@ -16,4 +16,13 @@ print(type(y))
 #getting the data type
 
 x, y, z = "Orange", "Banana", "Cherry"
+
 #assigning multiple values
+
+#variables are case sensitive
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John" #these are the right ways to declare variables
